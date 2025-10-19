@@ -64,17 +64,7 @@ El resultado es un archivo CSV (`recomendaciones_pre_envio.csv`) con las siguien
 | `conf_ok` | Si la previsión es fiable |
 | `decisao_pre_envio` | `ENVIAR_ANTES` o `AGUARDAR` |
 
----
 
-## 🧩 Ejemplo visual
-
-Gráfico de las 12 combinaciones región × producto con mayor recomendación de envío anticipado:
-
-![Top 12 envíos anticipados](plot_3d_top20_pre_envios.png)
-
-Distribución general de decisiones:
-
-![Distribución de decisiones](plot_share_decisoes.png)
 
 ---
 
